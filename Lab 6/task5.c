@@ -1,0 +1,4 @@
+void removeHalfNodes(Node* node)
+{
+    
+}
